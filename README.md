@@ -1,9 +1,5 @@
 ### Hi there 👋, my name is Arda
 #### I am a Junior Software Developer
-![I am a Junior Software Developer](https://www.bustedcubicle.com/wp-content/uploads/2018/01/Industry-Disrupted-Programming-main-banner.jpg)
-
-
-Skills:   NODE.JS / PYTHON 
 
 - 👯 I’m looking to collaborate on Some open source projects. 
 - 📫 How to reach me: cemalardatekkesin@gmail.com 
